@@ -4,7 +4,7 @@ import warnings
 warnings.filterwarnings('ignore')
 
 # 1. the dataframe
-df = pd.read_csv('tasks_3n4.csv') 
+df = pd.read_csv('tasks.csv') 
 
 # 2. spliting into Clues (X) and Answer (y)
 X = df[['income', 'years_employed', 'fico_score', 'credit_lines_outstanding', 'total_debt_outstanding']]
