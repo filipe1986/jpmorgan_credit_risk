@@ -61,3 +61,5 @@ if st.button("Calculate Risk & Expected Loss", type="primary"):
     st.info(f"Recommendation: {'Approve with caution' if prob_default < 0.25 else 'High risk - Consider declining or higher interest'}")
 
 st.caption("J.P. Morgan Forage Virtual Experience | Built with Streamlit")
+
+# the website is live here: https://jpmorgan-credit-risk.onrender.com/
