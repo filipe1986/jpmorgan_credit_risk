@@ -1,3 +1,17 @@
-# J.P. Morgan Credit Risk Assessment Modeling 📊
+# J.P. Morgan Credit Risk  Analyser
 
-This repository contains my completed data analytics codebase for the **J.P. Morgan Credit Risk Track** program simulation on Forage. The goal of this module is to analyze financial metrics and evaluate borrow risk parameters.
+A web applicantion that predicts the probability of default and expected loss for loan borrowers.
+
+## Live Demo
+https://prototype_pricing_model.onrender.com/
+
+## Features
+- Real-time Probability of Defaul (PD) prediction
+- Expected Loss calculation (10% recovery rate)
+- User-friendly interface for bank managers
+- Built with Streamlit
+
+## Tech Stack
+- Python, Streamlit, Scikit-learn, Pandas
+
+Made by Filipe Vieira
