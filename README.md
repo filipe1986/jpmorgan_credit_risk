@@ -3,7 +3,7 @@
 A web applicantion that predicts the probability of default and expected loss for loan borrowers.
 
 ## Live Demo
-https://jpmorgan_credit_risk.onrender.com/
+https://jpmorgan-credit-risk.onrender.com/
 
 ## Features
 - Real-time Probability of Defaul (PD) prediction
